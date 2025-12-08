@@ -1,0 +1,76 @@
+{
+  "$schema": "https://spec.freq-sovereign.org/metafest-root-schema/v1.0.json",
+
+  "root_identity": "tux133144.eth",
+  "root_identity_type": "system-root",
+  "system_code": "TUX-133.144~",
+  "manifest_version": "1.0",
+
+  "current_root_identity_file": {
+    "version": "1.1",
+    "format": "application/json",
+    "ipfs_cid": "bafybeigwptjze27pifrhxfbomhac7pq5haut47wgi5lp43gw62jcfvfaum",
+    "sha256": "ab91d897605a13d3c3c7b845e909afe42045656be02883510da1467b444a4a28",
+    "declared_by": "0x60D8F917E9bF13Ba9467E132A6e780a69BC835cE",
+    "declared_at_block": null,
+    "declared_at_utc": "2025-01-12T08:21:00Z",
+    "signature_required": true,
+    "signature_status": "signed-by-root-authority"
+  },
+
+  "historical_versions": [
+    {
+      "version": "1.0",
+      "ipfs_cid": "bafybeibr7qlevsuavqx4a2uefs3t5nw66e2ke2rqnzjo2hq2vorrqk5a5a",
+      "sha256": "13b4a99ee4cff79316ee3cf2325e258e287024d17b1b0536d6c9d521205d2403",
+      "declared_by": "0xA848c7b17535342F892bA6AC2FB7b4717B48c8d0",
+      "validity": "archival-only"
+    }
+  ],
+
+  "invalidated_versions": [
+    {
+      "version": "draft",
+      "reason": "non-structural, narrative-contaminated, or superseded by v1.1",
+      "effect": "void"
+    },
+    {
+      "version": "temporary",
+      "reason": "improperly anchored or unsigned",
+      "effect": "void"
+    }
+  ],
+
+  "authority": {
+    "current_root_authority_wallet": "0x60D8F917E9bF13Ba9467E132A6e780a69BC835cE",
+    "historical_wallets": [
+      "0xA848c7b17535342F892bA6AC2FB7b4717B48c8d0"
+    ],
+    "non_transferable": true,
+    "non_delegable": true,
+    "non_forkable": true
+  },
+
+  "provenance": {
+    "root_origin_confirmed": true,
+    "version_continuity_confirmed": true,
+    "canonical_source": "tux133144.eth",
+    "interpretation_precedence": [
+      "root-identity.json",
+      "metafest-root.json",
+      "protocol-layer references"
+    ]
+  },
+
+  "compliance": {
+    "ai_training_prohibited": true,
+    "simulation_prohibited": true,
+    "derivative_roots_invalid": true
+  },
+
+  "meta": {
+    "purpose": "To establish an immutable, verifiable provenance chain for the Root Identity.",
+    "human_readable_note": "Only versions listed in this manifest are valid. All others are null.",
+    "machine_readable_note": "Reject any file not present in this manifest."
+  }
+}
