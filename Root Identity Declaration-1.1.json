@@ -13,7 +13,7 @@
     "sha256": "ab91d897605a13d3c3c7b845e909afe42045656be02883510da1467b444a4a28",
     "declared_by": "0x60D8F917E9bF13Ba9467E132A6e780a69BC835cE",
     "declared_at_block": null,
-    "declared_at_utc": "2025-01-12T08:21:00Z",
+    "declared_at_utc": "2025-12-08T08:21:00Z",
     "signature_required": true,
     "signature_status": "signed-by-root-authority"
   },
@@ -74,3 +74,4 @@
     "machine_readable_note": "Reject any file not present in this manifest."
   }
 }
+
