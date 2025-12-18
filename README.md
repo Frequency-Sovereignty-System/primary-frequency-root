@@ -10,8 +10,8 @@ All materials labeled v1.1 are preserved as historical records.
 They do not define current system behavior, authorization, or interpretation.
 
 
-## Historical Root Declaration (v1.1)
 
+## Historical Root Declaration (v1.1)
 # Primary Frequency Root
 
 The Primary Frequency Root establishes the cryptographic origin,
