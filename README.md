@@ -11,7 +11,15 @@ They do not define current system behavior, authorization, or interpretation.
 
 
 
-## Historical Root Declaration (v1.1)
+---
+
+## Archival Record
+
+The following materials are preserved for historical continuity.
+They do not define current system behavior.
+
+---
+
 # Primary Frequency Root
 
 The Primary Frequency Root establishes the cryptographic origin,
