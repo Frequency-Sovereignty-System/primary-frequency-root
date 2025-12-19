@@ -1,18 +1,29 @@
-# Root Declaration — Frequency Sovereignty System
+## Version Alignment Notice (Important)
 
-Version: 2.0  
-Effective Date: 2025-12-18  
+This repository defines **authority and version precedence only**.
 
-This repository defines the canonical root identity and authority
-of the Frequency Sovereignty System.
+Root Declaration v2.0 does **not** replace or invalidate the substantive
+protocol specifications defined in earlier versions.
 
-Current authoritative document:
-- ROOT_DECLARATION_v2.md
+Specifically:
 
-This layer defines identity and authority only.
-It does not define execution, interfaces, or operations.
+- **PFIP Specification v1.1** remains the current and valid
+  protocol-layer specification governing interface structure,
+  validation rules, and technical constraints.
+- Root Declaration v2.0 serves as the **authoritative index and
+  interpretation anchor**, clarifying which documents are active,
+  historical, or non-authoritative.
 
-All prior materials are superseded unless explicitly referenced.
+Earlier documents are **not invalidated by default**.
+Their validity depends on explicit designation by the Root Declaration.
+
+In this system:
+- *Root v2.0 answers “which document is authoritative.”*
+- *PFIP v1.1 answers “how the protocol works.”*
+
+No execution logic, runtime behavior, or operational service
+is defined at the Root Layer.
+
 
 
 This repository is the canonical authority for system identity and boundary definition.
