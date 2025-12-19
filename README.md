@@ -1,13 +1,19 @@
-## Version Notice (Important)
+# Root Declaration — Frequency Sovereignty System
 
-This repository contains multiple versions of the Root Declaration.
+Version: 2.0  
+Effective Date: 2025-12-09  
 
-The current authoritative version is:
+This repository defines the canonical root identity and authority
+of the Frequency Sovereignty System.
 
-ROOT_DECLARATION_v2.md
+Current authoritative document:
+- ROOT_DECLARATION_v2.md
 
-All materials labeled v1.1 are preserved as historical records.
-They do not define current system behavior, authorization, or interpretation.
+This layer defines identity and authority only.
+It does not define execution, interfaces, or operations.
+
+All prior materials are superseded unless explicitly referenced.
+
 
 This repository is the canonical authority for system identity and boundary definition.
 
