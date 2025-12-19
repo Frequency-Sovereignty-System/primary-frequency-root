@@ -1,7 +1,7 @@
 # Root Declaration — Frequency Sovereignty System
 
 Version: 2.0  
-Effective Date: 2025-12-09  
+Effective Date: 2025-12-18  
 
 This repository defines the canonical root identity and authority
 of the Frequency Sovereignty System.
