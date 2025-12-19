@@ -9,6 +9,7 @@ ROOT_DECLARATION_v2.md
 All materials labeled v1.1 are preserved as historical records.
 They do not define current system behavior, authorization, or interpretation.
 
+This repository is the canonical authority for system identity and boundary definition.
 
 
 ---
