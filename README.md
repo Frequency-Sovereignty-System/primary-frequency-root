@@ -1,3 +1,9 @@
+This system is identifiable by its document structure,
+version continuity, and provenance records.
+Superficial replication without continuity
+does not establish equivalence.
+
+
 ## Version Alignment Notice (Important)
 
 This repository defines **authority and version precedence only**.
